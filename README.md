@@ -22,9 +22,6 @@ I enjoy building and testing ideas where AI, automation, and cloud come together
   <!-- Scripting -->
   <img src="https://img.shields.io/badge/Scripting-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Scripting-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-  <!-- Data -->
-  <img src="https://img.shields.io/badge/Data-Azure_Synapse-0078D4?style=for-the-badge&logo=azure-data-explorer&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data-SQL-CC2927?style=for-the-badge&logo=databricks&logoColor=white" />
 </p>
 
 ---
