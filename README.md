@@ -1,7 +1,7 @@
 ## 👋 Hi there   
 
 
-I’m a Cloud Infrastructure and DevOps Engineer who loves designing reliable, scalable, and secure cloud environments, the kind that let AI, data, and app teams focus on innovation instead of worrying about system integrity.  
+I’m a Cloud Infrastructure and DevOps Engineer with nearly 5 yrs or experience in designing reliable, scalable, and secure cloud environments, the kind that let AI, data, and app teams focus on innovation instead of worrying about system integrity.  
 
 I enjoy building and testing ideas where AI, automation, and cloud come together, it helps me see how infrastructure decisions shape intelligent systems.
 
